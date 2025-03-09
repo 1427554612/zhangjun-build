@@ -10,6 +10,6 @@ public class BuildController {
 
     @GetMapping(value = "/test")
     public String testBlock(){
-        return "hello,build";
+        return "hello,build...";
     }
 }
