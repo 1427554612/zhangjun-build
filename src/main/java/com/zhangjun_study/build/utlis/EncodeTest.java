@@ -14,5 +14,6 @@ public class EncodeTest {
         byte[] bytes = data.getBytes(StandardCharsets.UTF_8);
         String s = new String(bytes, Charset.defaultCharset());
         System.out.println(s);
+        System.out.println("1904提交");
     }
 }
