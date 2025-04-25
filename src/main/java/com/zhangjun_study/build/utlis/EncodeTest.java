@@ -15,5 +15,6 @@ public class EncodeTest {
         String s = new String(bytes, Charset.defaultCharset());
         System.out.println(s);
         System.out.println("2250425-1913");
+        System.out.println("2250425-1914");
     }
 }
